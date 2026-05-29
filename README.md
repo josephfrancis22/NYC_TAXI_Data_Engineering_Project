@@ -1,4 +1,4 @@
-# NYC_TAXI_Data_Engineering_Project
+
 # NYC Taxi — Azure End-to-End Data Engineering Project
 
 An end-to-end data engineering pipeline built on Azure that ingests NYC Taxi trip data via API, transforms it using PySpark in Databricks, stores it across Bronze, Silver, and Gold layers in ADLS Gen2, and serves it to Power BI through Delta tables.
